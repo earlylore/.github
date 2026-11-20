@@ -9,6 +9,7 @@
 - **Public docs, method & guides**: [earlylore/docs](https://github.com/earlylore/docs)
 - **Explore**: [Products](https://earlylore.com/products) · [Design DNA](https://earlylore.com/design) · [Open-Source / COSS](https://earlylore.com/open-source) · [Research Guides](https://earlylore.com/blog) · [`llms.txt`](https://earlylore.com/llms.txt)
 - **Traffic data partner**: [Vaneform](https://vaneform.com)
+- **Product Hunt**: [producthunt.com/products/earlylore](https://www.producthunt.com/products/earlylore)
 
 **EarlyLore 面向独立开发者与 AI 产品团队提供基于真实市场证据的立项评估与竞品研究**：聚合产品流量估算、249 个细分赛道定价基准、首屏 Design DNA 与公开披露收入证据，支持通过托管 MCP 接入 Claude Code / Cursor / Codex / Antigravity。
 
